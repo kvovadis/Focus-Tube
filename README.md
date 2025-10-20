@@ -61,4 +61,5 @@ Chrome will replace the old version automatically.
 ### 🧠 Author
 Created by kvovadis  
 🖤 Focus more, scroll less — enjoy a cleaner YouTube!
+
 💖 Support me on Ko-fi https://ko-fi.com/kvovadis
